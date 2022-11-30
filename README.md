@@ -27,8 +27,8 @@
 ### 👉Movie/Animation Making
 <p align="left">
   &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  <a href="https://lwks.com" target="_blank"> 
+    <img alt="LightWorks" src="https://img.shields.io/badge/Light-Works-lightgrey"/> 
   </a> 
     &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
